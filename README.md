@@ -1,6 +1,6 @@
 # Чек листы
 Тут будут описаны мои работы
 
-- [API](https://github.com/G-GoodLike/G-GoodLike/blob/main/Assets/API.md)
-  - [Postman. Jira Get issue link](https://docs.google.com/document/d/1qEvNigrvTYVAwOSjgPkd_oiPXc-vfa7yc_YwbPdMgO8/edit?usp=sharing)
-- [Email](https://github.com/G-GoodLike/G-GoodLike/blob/main/Assets/Email.md)
+- [API](https://docs.google.com/document/d/1sDkgbFeEAjp12W8CiW6SYW-N92l6R5Kned2uZ5-2_TA/edit?userstoinvite=lenikvini87%40gmail.com&tab=t.0)
+  - [Postman. Jira Get issue link]
+
